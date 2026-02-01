@@ -1,5 +1,5 @@
 # FETUS 2026 Docker Submission Template
-[![FETUS 2026 Challenge Site](https://img.shields.io/badge/Official-FETUS%202026%20Challenge-red?style=for-the-badge)]([FETUS 2026 Challenge](http://119.29.231.17:90/index.html))
+[![FETUS 2026 Challenge Site](https://img.shields.io/badge/Official-FETUS%202026%20Challenge-red?style=for-the-badge)]((http://119.29.231.17:90/index.html))
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-orange?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-11.8+-green?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
